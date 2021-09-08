@@ -27,7 +27,6 @@ for star_data in stars_data:
 
   final_star_list.append(temp_dict)
 
-# Mam, I did this on colab and copied the output from there ☝
 
 app = Flask(__name__)
 
